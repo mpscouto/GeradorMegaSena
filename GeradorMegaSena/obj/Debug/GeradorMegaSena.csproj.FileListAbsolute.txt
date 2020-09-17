@@ -1,0 +1,10 @@
+C:\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\GeradorMegaSena.csprojAssemblyReference.cache
+C:\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\GeradorMegaSena.Properties.Resources.resources
+C:\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\GeradorMegaSena.csproj.GenerateResource.cache
+C:\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\GeradorMegaSena.csproj.CoreCompileInputs.cache
+C:\Projetos\GeradorMegaSena\GeradorMegaSena\bin\Debug\GeradorMegaSena.exe.config
+C:\Projetos\GeradorMegaSena\GeradorMegaSena\bin\Debug\GeradorMegaSena.exe
+C:\Projetos\GeradorMegaSena\GeradorMegaSena\bin\Debug\GeradorMegaSena.pdb
+C:\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\GeradorMegaSena.frmGerador.resources
+C:\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\GeradorMegaSena.exe
+C:\Projetos\GeradorMegaSena\GeradorMegaSena\obj\Debug\GeradorMegaSena.pdb
